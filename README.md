@@ -1,0 +1,2 @@
+# iltekkomputer
+safelink.js
